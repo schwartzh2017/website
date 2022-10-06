@@ -1,0 +1,4 @@
+.unwanted_DS_Store
+*~ #to ignore temporary files (sometimes vim adds ~ to end of filename as a temporary filename)
+tmp/
+log/
